@@ -2,8 +2,9 @@
 
 ## Project Overview
 
-In this project we were tasked to will follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. We learn about JavaScript Promises, how to use them, and how to handle them. We also learn about APIs and how to use them to fetch data from the internet and use them to create a personal dashboard.
+In this project, we were tasked to follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. We learn about JavaScript Promises, how to use them, and how to handle them. We also learn about APIs and how to use them to fetch data from the internet and use them to create a personal dashboard.
 
+![JSL09 Solution](https://github.com/Dimpho-Molepo/DIMMOL405_BCL2401_GroupA_Dimpho-Molepo_JSL09/assets/136012291/f369cd81-816d-4bcd-8d8e-2733b91391ca)
 
 ## Getting Started
 
@@ -17,17 +18,13 @@ In this project we were tasked to will follow along with the Scrimba Promise Rej
 
 ## Learning Outcomes
 
-1. **Better Understanding Promises:** Promises are a way to handle asynchronous operations in JavaScript. In this project we learn how to use promises and how they represent a value that may not be available yet, but will be resolved at some point in the future. Promises can be in one of three states: fulfilled, rejected, or pending.
+1. **Better Understanding Promises:** Promises are a way to handle asynchronous operations in JavaScript. In this project, we learn how to use promises and how they represent a value that may not be available yet but will be resolved at some point in the future. Promises can be in one of three states: fulfilled, rejected, or pending.
 
 2. **Learn About APIs:** How to use APIs and how to fetch data from the internet. Learn about the syntax of making an API request and how to handle the response.
 
 3. **Learned About Promise Rejection:** Learned how to use the throw() and catch() to better handle promise rejection. Learned about the different error codes when a promise is rejected.
 
-4. **Using Async and Await** Using async and await can greatly simplify asynchronous code in JavaScript, which makes it more readable and easier to work with. Learned that by using async and await, you can write asynchronous code that looks and behaves more like synchronous code, making it easier to understand and maintain. Also learned the best practices when using the asynchronuos code
+4. **Using Async and Await** Using async and await can greatly simplify asynchronous code in JavaScript, which makes it more readable and easier to work with. Learned that by using async and await, you can write asynchronous code that looks and behaves more like synchronous code, making it easier to understand and maintain. Also learned the best practices when using the asynchronous code
 
 ## Author
 Dimpho Molepo
-
-
-
-
