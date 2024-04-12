@@ -51,3 +51,14 @@ navigator.geolocation.getCurrentPosition(async position => {
       console.error(err);
     }
 });
+
+try {
+    const quote = await fetch(`https://stoic.tekloon.net/stoic-quote`);
+    if (!quote.ok) {
+      throw Error("Something went wrong");
+    }
+    const data = await quote.json();
+    document.getElementById("quote-text").textContent = `${data.quote} - ${data.author}`;
+} catch (err) {
+    console.error(err);
+}

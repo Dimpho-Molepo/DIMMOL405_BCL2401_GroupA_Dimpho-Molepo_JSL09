@@ -46,3 +46,47 @@ div#crypto-top {
 div#crypto-top > span {
     margin-left: 10px;
 }
+
+div#weather {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-self: flex-start;
+    margin-top: -20px;
+}
+
+div#weather > img {
+    width: 70px;
+}
+
+p.weather-city {
+    width: 100%;
+    text-align: right;
+    margin: 0;
+    margin-top: -10px;
+    font-size: 1.2rem;
+}
+
+p.weather-temp {
+    margin: 0;
+    font-size: 1.7rem;
+    margin-left: -10px;
+}
+
+#author {
+    font-size: 1rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+div#quote-and-image-author {
+   display: flex;
+   justify-content: space-between;
+}
+
+.quote {
+    width: 430px;
+    font-style: oblique;
+}
